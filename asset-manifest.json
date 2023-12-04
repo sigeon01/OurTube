@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/OurTube/static/js/main.8da73589.js",
+    "static/media/css.png": "/OurTube/static/media/css.17af2e5ccfc17ffa644a.png",
+    "static/media/javascript.png": "/OurTube/static/media/javascript.6a8e88a39d93cc30c0bf.png",
+    "static/media/web.png": "/OurTube/static/media/web.72c1c79687936bacc11d.png",
+    "static/media/html.png": "/OurTube/static/media/html.909da1739c90652d4ecf.png",
+    "static/media/react.png": "/OurTube/static/media/react.6d4a3e7eb19178b59392.png",
+    "index.html": "/OurTube/index.html",
+    "main.8da73589.js.map": "/OurTube/static/js/main.8da73589.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8da73589.js"
+  ]
+}
